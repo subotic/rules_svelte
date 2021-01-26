@@ -8,6 +8,6 @@
     "google-closure-compiler": "20201102.0.1",
     "fs-extra": "9.0.1",
     "find-up": "5.0.0",
-    "@bazel/worker": "2.3.0"
+    "@bazel/worker": "3.0.0"
   }
 }
